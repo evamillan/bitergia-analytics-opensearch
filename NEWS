@@ -1,5 +1,12 @@
 # Releases
 
+## bitergia-analytics-opensearch 0.15.2 - (2023-12-19)
+
+**Bug fixes:**
+
+ * test workflow
+
+
   ## bitergia-analytics-opensearch 0.15.1 - (2023-12-18)
   
   * No changes on this component. The version is bumped to align it
@@ -24,3 +31,4 @@
   
   * No changes on this component. The version is bumped to align it
     with the rest of the components.
+
